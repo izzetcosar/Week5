@@ -1,18 +1,18 @@
 # Pratik - IMDB Listesi
-- **Aşağıda belirtilen adımları gerçekleştirerek bir Imdb - Film Listesi oluşturuyoruz.**
+**AÅŸaÄŸÄ±da belirtilen adÄ±mlarÄ± gerÃ§ekleÅŸtirerek bir Imdb - Film Listesi oluÅŸturuyoruz.**
 
-**Sinema Filmlerini listeleyeceğimiz bir liste oluşturalım.**
+**Sinema Filmlerini listeleyeceÄŸimiz bir liste oluÅŸturalÄ±m.**
 
-**Film için propertyler -> Imdb Puanı (Double) - İsmi** 
+**Film iÃ§in propertyler -> Imdb PuanÄ± (Double) - Ä°smi** 
 
-**Kullanıcıdan sınırsız sayıda film adı ve imdb puanı isteyip bu bilgilerle nesneler oluşturulup liste doldurulacak.**
+**KullanÄ±cÄ±dan sÄ±nÄ±rsÄ±z sayÄ±da film adÄ± ve imdb puanÄ± isteyip bu bilgilerle nesneler oluÅŸturulup liste doldurulacak.**
 
-**Kullanıcıya her film eklemesinden sonra yeni bir film eklemek isteyip istemediği sorulsun. Kullanıcı evet cevabını verirse döngüde başa dönülerek yeni bir film oluşturulup ilgili listeye aktarılsın. Hayır cevabı verilirse program aşağıdaki çıktıları ayrı ayrı sunarak sonlandırılsın.**
+**KullanÄ±cÄ±ya her film eklemesinden sonra yeni bir film eklemek isteyip istemediÄŸi sorulsun. KullanÄ±cÄ± evet cevabÄ±nÄ± verirse dÃ¶ngÃ¼de baÅŸa dÃ¶nÃ¼lerek yeni bir film oluÅŸturulup ilgili listeye aktarÄ±lsÄ±n. HayÄ±r cevabÄ± verilirse program aÅŸaÄŸÄ±daki Ã§Ä±ktÄ±larÄ± ayrÄ± ayrÄ± sunarak sonlandÄ±rÄ±lsÄ±n.**
 
-**Uygulamanın sonunda**
+**UygulamanÄ±n sonunda**
 
-- **Bütün filmler listelensin.**
+- **BÃ¼tÃ¼n filmler listelensin.**
 
-- **Imdb puanı 4 ile 9 arasında olan bütün filmler listelensin.**
+- **Imdb puanÄ± 4 ile 9 arasÄ±nda olan bÃ¼tÃ¼n filmler listelensin.**
 
-- **İsmi 'A' ile başlayan filmler ve imdb puanları listelensin.**
+- **Ä°smi 'A' ile baÅŸlayan filmler ve imdb puanlarÄ± listelensin.**
