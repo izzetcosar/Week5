@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03Lists2", "P03Lists2\P03L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04IMDBListesi", "P04IMDBListesi\P04IMDBListesi.csproj", "{C278E5A3-3874-4442-BE64-6EC4FAA7EA93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05TryCatch", "P05TryCatch\P05TryCatch.csproj", "{ABD1B2B3-2837-4F6E-98F5-17E306E21A94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C278E5A3-3874-4442-BE64-6EC4FAA7EA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C278E5A3-3874-4442-BE64-6EC4FAA7EA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C278E5A3-3874-4442-BE64-6EC4FAA7EA93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD1B2B3-2837-4F6E-98F5-17E306E21A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD1B2B3-2837-4F6E-98F5-17E306E21A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD1B2B3-2837-4F6E-98F5-17E306E21A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD1B2B3-2837-4F6E-98F5-17E306E21A94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
