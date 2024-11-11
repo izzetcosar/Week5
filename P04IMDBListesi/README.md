@@ -1,13 +1,13 @@
 # Pratik - IMDB Listesi
 **Aşağıda belirtilen adımları gerçekleştirerek bir Imdb - Film Listesi oluşturuyoruz.**
 
-**Sinema Filmlerini listeleyeceğimiz bir liste oluşturalım.**
+- **Sinema Filmlerini listeleyeceğimiz bir liste oluşturalım.**
 
-**Film için propertyler -> Imdb Puanı (Double) - İsmi** 
+- **Film için propertyler -> Imdb Puanı (Double) - İsmi** 
 
-**Kullanıcıdan sınırsız sayıda film adı ve imdb puanı isteyip bu bilgilerle nesneler oluşturulup liste doldurulacak.**
+- **Kullanıcıdan sınırsız sayıda film adı ve imdb puanı isteyip bu bilgilerle nesneler oluşturulup liste doldurulacak.**
 
-**Kullanıcıya her film eklemesinden sonra yeni bir film eklemek isteyip istemediği sorulsun. Kullanıcı evet cevabını verirse döngüde başa dönülerek yeni bir film oluşturulup ilgili listeye aktarılsın. Hayır cevabı verilirse program aşağıdaki çıktıları ayrı ayrı sunarak sonlandırılsın.**
+- **Kullanıcıya her film eklemesinden sonra yeni bir film eklemek isteyip istemediği sorulsun. Kullanıcı evet cevabını verirse döngüde başa dönülerek yeni bir film oluşturulup ilgili listeye aktarılsın. Hayır cevabı verilirse program aşağıdaki çıktıları ayrı ayrı sunarak sonlandırılsın.**
 
 **Uygulamanın sonunda**
 
