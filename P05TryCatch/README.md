@@ -1,6 +1,6 @@
 # Pratik - Try - Catch
-**Bu pratikte basit bir try-catch uygulaması yapalım.
+**Bu pratikte basit bir try-catch uygulamasÄ± yapalÄ±m.**
 
- Kullanıcıdan bir sayı girmesini isteyen bir program yazın. Kullanıcı geçerli bir sayı girdiğinde bu sayının karesini ekrana yazdırınız. 
+**KullanÄ±cÄ±dan bir sayÄ± girmesini isteyen bir program yazÄ±n. KullanÄ±cÄ± geÃ§erli bir sayÄ± girdiÄŸinde bu sayÄ±nÄ±n karesini ekrana yazdÄ±rÄ±nÄ±z.** 
 
-Kullanıcı geçersiz bir giriş yaparsa (sayı yerine harf veya sembol girmesi gibi), "Geçersiz giriş! Lütfen bir sayı giriniz." şeklinde bir hata mesajı gösteriniz.**
+**KullanÄ±cÄ± geÃ§ersiz bir giriÅŸ yaparsa (sayÄ± yerine harf veya sembol girmesi gibi), "GeÃ§ersiz giriÅŸ! LÃ¼tfen bir sayÄ± giriniz." ÅŸeklinde bir hata mesajÄ± gÃ¶steriniz.**
