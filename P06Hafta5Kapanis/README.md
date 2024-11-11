@@ -1,21 +1,21 @@
-# Hafta 5 - Kapanış
+# Hafta 5 - KapanÄ±ÅŸ
 
-**Bir araba fabrikasonda araba üretiyoruz.**
+**Bir araba fabrikasonda araba Ã¼retiyoruz.**
 
-**Araba -> Üretim Tarihi, Seri Numarası, Marka, Model, Renk, Kapı Sayısı**
+**Araba -> Ãœretim Tarihi, Seri NumarasÄ±, Marka, Model, Renk, KapÄ± SayÄ±sÄ±**
 
-**Yukarıdaki propertylere sahip bir Araba classı tanımlayalım.**
+**YukarÄ±daki propertylere sahip bir Araba classÄ± tanÄ±mlayalÄ±m.**
 
-Program akışı:
+### Program akÄ±ÅŸÄ±:
 
-1 - Konsol ekranından kullanıcıya araba üretmek isteyip istemediğini soralım. Üretmek istiyorsa e, istemiyorsa h harfi ile yanıt versin. Büyük - Küçük harf duyarlılığını ortadan kaldıralım. Geçersiz bir cevap verirse, bu cevabın geçersiz olduğunu söyleyerek aynı soruyu tekrar yöneltelim.
+**1 - Konsol ekranÄ±ndan kullanÄ±cÄ±ya araba Ã¼retmek isteyip istemediÄŸini soralÄ±m. Ãœretmek istiyorsa e, istemiyorsa h harfi ile yanÄ±t versin. BÃ¼yÃ¼k - KÃ¼Ã§Ã¼k harf duyarlÄ±lÄ±ÄŸÄ±nÄ± ortadan kaldÄ±ralÄ±m. GeÃ§ersiz bir cevap verirse, bu cevabÄ±n geÃ§ersiz olduÄŸunu sÃ¶yleyerek aynÄ± soruyu tekrar yÃ¶neltelim.**
 
-2 - Kullanıcının cevabı hayır programı sonlandıralım, evet ise bir araba nesnesi üretip özelliklerini konsol ekranından kullanıcıya girdirelim.
+**2 - KullanÄ±cÄ±nÄ±n cevabÄ± hayÄ±r programÄ± sonlandÄ±ralÄ±m, evet ise bir araba nesnesi Ã¼retip Ã¶zelliklerini konsol ekranÄ±ndan kullanÄ±cÄ±ya girdirelim.**
 
-3 - Üretim Tarihi değeri araba üretilirken otomatik olarak o an olarak atanacak.
+**3 - Ãœretim Tarihi deÄŸeri araba Ã¼retilirken otomatik olarak o an olarak atanacak.**
 
-4 - Kapı Sayısı için sayısal olmayan bir değer atanılmaya çalışılırsa programın exception fırlatmasını engelleyelim, uyarı mesajı verelim ve kullanıcıyı yeniden o satıra yönlendirelim. (goto komutunu araştırınız.)
+**4 - KapÄ± SayÄ±sÄ± iÃ§in sayÄ±sal olmayan bir deÄŸer atanÄ±lmaya Ã§alÄ±ÅŸÄ±lÄ±rsa programÄ±n exception fÄ±rlatmasÄ±nÄ± engelleyelim, uyarÄ± mesajÄ± verelim ve kullanÄ±cÄ±yÄ± yeniden o satÄ±ra yÃ¶nlendirelim. (goto komutunu araÅŸtÄ±rÄ±nÄ±z.)**
 
-5 - Oluşturulan araba nesnesini arabalar isimli bir listeye atayınız.
+**5 - OluÅŸturulan araba nesnesini arabalar isimli bir listeye atayÄ±nÄ±z.**
 
-6 - Kullanıcıya başka araba oluşturmak isteyip istemediğini sorunuz, evet ise program akışında 2. aşamaya geri dönünüz ve yeni bir araba üretip listeye ekleyiniz. Cevap hayır ise arabalar listesinin bütün elemanlarının Seri numaralarını ve markalarını yazdırınız
+**6 - KullanÄ±cÄ±ya baÅŸka araba oluÅŸturmak isteyip istemediÄŸini sorunuz, evet ise program akÄ±ÅŸÄ±nda 2. aÅŸamaya geri dÃ¶nÃ¼nÃ¼z ve yeni bir araba Ã¼retip listeye ekleyiniz. Cevap hayÄ±r ise arabalar listesinin bÃ¼tÃ¼n elemanlarÄ±nÄ±n Seri numaralarÄ±nÄ± ve markalarÄ±nÄ± yazdÄ±rÄ±nÄ±z**
